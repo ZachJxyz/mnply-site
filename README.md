@@ -1,6 +1,6 @@
 # Monopoly Technologies, Inc.
 
-I made this site as a simple landing page for www.MonopolyBooking.com AKA MNPLY.
+I made this site as a simple landing page for www.MonopolyBooking.com aka MNPLY.
 
 I built this site with basic HTML5 and CSS with Bootstrap. Pretty proud of the simplicity.
 
